@@ -1,0 +1,23 @@
+yarn add react-vertical-timeline-component
+
+npm uninstall react-vertical-timeline-component 
+
+
+
+                  npm start
+
+
+
+
+/***/
+git init 
+git status
+git add .
+git config core.autocrlf
+git config --global user.email "jijouinfo@gmail.com"
+git config -- global user.name "hadjersh97"
+
+git commit -m 'second commit done"
+
+git remote a origin https: 
+git push -f origin master
