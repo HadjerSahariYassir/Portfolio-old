@@ -4,6 +4,7 @@ import {FaThList} from 'react-icons/fa'
 import {Tabs,Tab, Paper} from '@material-ui/core'
 import {createMuiTheme, makeStyles, ThemeProvider} from '@material-ui/core/styles' 
 import Grid from '@material-ui/core/Grid'
+import {FaThList} from 'react-icons/fa'
 
 const themeTab = createMuiTheme({
     palette : {
